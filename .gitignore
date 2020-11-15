@@ -1,4 +1,7 @@
 .idea/*
+CMakeLists.txt
+cmake-build-debug/*
+
 # Mac OS X
 *.DS_Store
 
